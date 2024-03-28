@@ -1,0 +1,22 @@
+Network Security Toolkit
+This Python script provides essential network security tools:
+
+Ping Test: Checks connectivity to a specified IP address.
+Port Scanner: Identifies open TCP ports on a target IP.
+Brute Force Password Cracker: Attempts to crack passwords using brute force.
+Features:
+Ping Test: Verify connectivity.
+Port Scanner: Identify open ports.
+Brute Force Password Cracker: Crack passwords.
+Usage:
+Input the target IP address.
+Perform a ping test.
+Specify port range to scan.
+Scan for open TCP ports.
+Input password for brute force attack.tells you how many tries a bruteforce tool like jacktheripper would attempt.
+Dependencies:
+Python 3.x
+socket, itertools, string, os modules
+Note: Use responsibly and with appropriate permissions.
+
+GitHub: Network-Security-Toolkit
